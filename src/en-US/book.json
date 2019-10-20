@@ -1,0 +1,16 @@
+{
+    "language": "en",
+    "links": {
+        "sidebar": {
+            "link1": "http://###",
+            "link2": "http://###"
+        }
+    },
+    "styles": {
+        "website": "assets/styles/website.css",
+        "ebook": "assets/styles/ebook.css",
+        "pdf": "assets/styles/pdf.css",
+        "mobi": "assets/styles/mobi.css",
+        "epub": "assets/styles/epub.css"
+    }
+}

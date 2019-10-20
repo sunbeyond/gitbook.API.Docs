@@ -1,0 +1,22 @@
+{
+  "name": "gitbook.openapi.docs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "gulp --silent dev",
+    "html": "gulp --silent html",
+    "setup": "cd ./src && gitbook install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:sunbeyond/gitbook.OpenAPI.Docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "rimraf": "^3.0.0"
+  }
+}

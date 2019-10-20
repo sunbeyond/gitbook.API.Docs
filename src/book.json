@@ -1,0 +1,30 @@
+{
+    "title": "BBX合约交易Open API",
+    "author": "Felix",
+    "description": "BBX合约交易Open API",
+    "language": "zh-hans",
+    "gitbook": ">=3.2.3",
+    "root": ".",
+    "plugins": [
+        "-search",
+        "-lunr",
+        "search-pro",
+        "-sharing",
+        "-livereload",
+        "theme-api",
+        "alerts",
+        "customize-bbx"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 2
+        },
+        "customize-bbx": {
+            "autoSummary": {
+                "auto": true
+            }
+        }
+    }
+}
