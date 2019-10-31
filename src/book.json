@@ -23,7 +23,7 @@
         },
         "customize-bbx": {
             "autoSummary": {
-                "auto": true
+                "auto": false
             }
         }
     }
